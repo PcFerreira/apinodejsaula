@@ -98,7 +98,7 @@ yarn install
 
 
 #### Error Response
-**Code** : `500 Not Found`
+**Code** : `500 Internal Server Error`
 
 **Exemplo**
 
