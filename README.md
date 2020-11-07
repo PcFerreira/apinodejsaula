@@ -58,6 +58,7 @@ yarn install
 ```
 #### Error Response
 **Code** : `404 Not Found`
+
 **Exemplo**
 
 **URL** : `http://localhost:3500/api/anime/000`
@@ -71,6 +72,7 @@ yarn install
 ### Inserir Anime
 
 **URL** : `http://localhost:3500/api/anime`
+
 **Method** : `POST`
 
 #### Success Response
@@ -97,6 +99,7 @@ yarn install
 
 #### Error Response
 **Code** : `500 Not Found`
+
 **Exemplo**
 
 
@@ -108,8 +111,6 @@ yarn install
 
 
 ```
-
-
 
 
 ## 🛠 Feito com
