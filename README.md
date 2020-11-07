@@ -125,4 +125,4 @@ yarn install
 
 ## 📍 URL
 
-- [https://github.com/PcFerreira/samplenodeAPI](https://github.com/PcFerreira/samplenodeAPI)
+- [https://github.com/PcFerreira/apinodejsaula](https://github.com/PcFerreira/apinodejsaula)
