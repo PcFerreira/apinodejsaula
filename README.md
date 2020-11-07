@@ -51,7 +51,7 @@ yarn install
 ```json
 {
   "id": "1",
-  "title": "Jujutsu Kaisenr",
+  "title": "Jujutsu Kaisen",
   "year": "2020",
   "synopsis": "In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead!"
 }
@@ -83,7 +83,7 @@ yarn install
 
 ```json
 {
-  "title": "Jujutsu Kaisenr",
+  "title": "Jujutsu Kaisen",
   "year": "2020",
   "synopsis": "In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead!"
 }
