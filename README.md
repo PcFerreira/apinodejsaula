@@ -120,7 +120,7 @@ yarn install
 
 ## 👥 Autor
 - Pedro César Ferreira
-  - Github: [wesleyadriann](https://github.com/PcFerreira)
+  - Github: [PcFerreira](https://github.com/PcFerreira)
 
 
 ## 📍 URL
