@@ -25,13 +25,11 @@ npm install
 yarn install
 ```
 
-```
-
 
 ## 🌐 A aplicação será executada em: [http://localhost:3500](http://localhost:3500)
 
 
-```
+
 
 ## 🔎 Exemplos de Requisição 
 
