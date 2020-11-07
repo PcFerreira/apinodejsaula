@@ -13,16 +13,17 @@ Api Node.JS atividade 06/11/2020
 ## 📄 Requisitos 
 
 - [Node](https://nodejs.org/)
-- [npm](https://www.npmjs.com) ou [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com)
 
 ## 👨‍💻 Usando
 ### 🚩 No diretorio raiz, instale as dependências.
 
 ```bash
-# usando o npm
 npm install
-# usando o yarn
-yarn install
+```
+### 📡 Inicie o servidor
+```bash
+npm start
 ```
 
 
